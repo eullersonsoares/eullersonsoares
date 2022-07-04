@@ -34,3 +34,5 @@
   </a>
 </div>
 
+<br>
+![Snake animation]
