@@ -1,7 +1,7 @@
 ### Olá! Eu me chamo Eullerson Soares 👋
 
 - 🔭 Eu trabalho com Front-end;
-- 🌱 Estudando JavaScript e React.js;
+- 🌱 Estudando JavaScript;
 
 <div>
    <img height="180" src="https://github-readme-stats.vercel.app/api?username=eullersonsoares&theme=github_dark&show_icons=true" alt="GitHub stats">
