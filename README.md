@@ -1,7 +1,7 @@
 ### Olá! Eu me chamo Eullerson Soares 👋
 
-- 🔭 Eu trabalho com Front-end;
-- 🌱 Estudando php;
+- 👨🏻‍💻 Eu trabalho com Front-end;
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" height="20" width="30"> Estudando php;
 
 <div>
    <img height="180" src="https://github-readme-stats.vercel.app/api?username=eullersonsoares&theme=github_dark&show_icons=true" alt="GitHub stats">
